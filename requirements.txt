@@ -120,5 +120,5 @@ tf2-kdl==0.5.20
 tf2-py==0.5.20
 tf2-ros==0.5.20
 tf2-sensor-msgs==0.5.20
-urllib3==1.24.1
+urllib3==1.26.5
 xacro==1.9.5
