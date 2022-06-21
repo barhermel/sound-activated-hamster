@@ -34,7 +34,7 @@ image-geometry==1.11.16
 interactive-markers==1.11.4
 laser-geometry==1.6.4
 message-filters==1.11.21
-numpy==1.16.1
+numpy==1.22.0
 pluginlib==1.10.7
 protobuf==3.6.1
 pyasn1==0.4.5
